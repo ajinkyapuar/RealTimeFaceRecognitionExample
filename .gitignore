@@ -505,3 +505,5 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,unity,visualstudio,visualstudiocode
+
+Assets/OpenCVForUnity/
